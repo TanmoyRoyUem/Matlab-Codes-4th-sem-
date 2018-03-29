@@ -1,4 +1,4 @@
-%Pulse Amplitude Modulation (PAM)
+%Pulse Amplitude Modulation (PAM) and demodulation
 
 clc;
 close all;
